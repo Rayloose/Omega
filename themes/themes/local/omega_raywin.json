@@ -40,7 +40,7 @@
         },
         "Calculation": {
             "BackgroundOdd": "fafafa",
-            "BackgroundEven": "006FFF",
+            "BackgroundEven": "ffffff",
             "EmptyBox": "c4c4c4",
             "EmptyBoxNeeded": "00857f",
             "TrigoAndComplexForeground": "ff000c"
