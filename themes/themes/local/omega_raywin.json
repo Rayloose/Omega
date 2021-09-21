@@ -46,7 +46,7 @@
             "TrigoAndComplexForeground": "ff000c"
         },
         "Code": {
-            "Background": "006FFF",
+            "Background": "ffffff",
             "BackgroundSelected": "e0e0e0",
             "Text": "000000",
             "Comment": "999988",
@@ -123,7 +123,7 @@
         "Home": {
             "Background": "ffffff",
             "CellBackground": "ffffff",
-            "CellBackgroundActive": "4a4a4a",
+            "CellBackgroundActive": "006FFF",
             "CellText": "000000",
             "CellTextActive": "ffffff",
             "CellTextExternal": "008f87",
